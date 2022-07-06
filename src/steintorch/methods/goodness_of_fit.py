@@ -1,0 +1,1 @@
+from steintorch.methods.base import Method
